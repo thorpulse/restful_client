@@ -3,9 +3,9 @@
  * RESTful Client based on CURL
  * 
  * @author        	Almir Dzidic
- * @link			https://github.com/corysus/rest_bc
+ * @link		https://github.com/corysus/restful_client.git
  * @version 		1.0.0
- * @date			18.07.2012.
+ * @date		18.07.2012.
  *
  *
  * This is basic RESTful client based on CURL. >>> To use this client you must have enabled curl on your server. <<<
