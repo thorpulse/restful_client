@@ -9,13 +9,15 @@ This client:
  - tested with RESTful PHP Server by Phil Sturgeon, Twitter RESTful server and few others...
  
 **HOW TO USE**
+
 It's simple like 123 :)
 
-<?php
+
 $rest = new RESTfulCURL_Client('http://yoururl/');
-$rez = $rest->post('function.json', 
-		array('parameter1'=>'value', 
+
+$rez = $rest->post('function.json',
+		array('parameter1'=>'value',
 					'parrameter2'=>'value'
 		));
+
 print_r($rez); // print response
-?>
